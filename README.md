@@ -323,19 +323,28 @@ By establishing strict trust boundaries and validating request metadata, enginee
 
 References
 IETF RFC 7239 – Forwarded HTTP Extension
+https://datatracker.ietf.org/doc/html/rfc7239
 
 IETF RFC 9110 – HTTP Semantics
+https://datatracker.ietf.org/doc/html/rfc9110
 
 CVE-2018-14773 – Symfony URI Rewrite Header Bypass
+https://nvd.nist.gov/vuln/detail/CVE-2018-14773
 
 Nginx ngx_http_realip_module Documentation
+https://nginx.org/en/docs/http/ngx_http_realip_module.html
 
 Apache mod_remoteip Documentation
+https://httpd.apache.org/docs/current/mod/mod_remoteip.html
 
 HAProxy Configuration Manual
+https://www.haproxy.com/documentation/
 
 Spring Framework ForwardedHeaderFilter
+https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/filter/ForwardedHeaderFilter.html
 
 Express.js Trust Proxy Setting
+https://expressjs.com/en/guide/behind-proxies/
 
 ASP.NET Core Forwarded Headers Middleware
+https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/proxy-load-balancer?view=aspnetcore-10.0
